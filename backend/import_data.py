@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import csv
 import os
-import pprint
 import sqlite3
 
 def import_csv():
