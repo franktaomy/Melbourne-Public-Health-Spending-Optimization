@@ -7,3 +7,6 @@ dist
 coverage
 
 .idea/
+
+backend/MergedCleared.csv
+backend/database.db
